@@ -1,0 +1,18 @@
+/*   COLORS   */
+$black: #000;
+$gray: #2B2320;
+$white: #fff;
+$red: #f80000;
+$green: #04a400;
+$light-green: #2bff3a;
+$blue: #040bff;
+$light-blue: #00f0fd;
+$orange: #ff6600;
+
+/* GLOBAL VARS */
+$container: 1180px; // ПОТІМ ТРЕБА ДОПИСАТИ АДАПТИВ ЧЕРЕЗ %
+$global-paddings: 0 15px;
+
+/* https://fonts.google.com */
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
